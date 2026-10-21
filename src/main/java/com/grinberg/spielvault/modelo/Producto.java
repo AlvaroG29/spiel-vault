@@ -1,3 +1,5 @@
+package com.grinberg.spielvault.modelo;
+
 public abstract class Producto {
 
     private final int id;
